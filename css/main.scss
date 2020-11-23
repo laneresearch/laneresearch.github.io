@@ -1,0 +1,105 @@
+
+.card {
+  opacity: 0.85;
+  background-color: #FFF;
+  width: 300px;
+  padding: 50px;
+  margin: 10% auto 0 auto;
+
+}
+
+.name,
+.subtitle,
+.links {
+  text-align: center;
+
+}
+
+.name,
+.subtitle {
+  opacity:0.8;
+  color: #404040;
+  line-height: 0.5em;
+}
+
+
+
+.name {
+  font-size:48px;
+
+  font-family: 'Herr Von Muellerhoff', cursive;
+  // font-family: 'Italianno', cursive;
+}
+
+.subtitle {
+  font-size:20px;
+  font-family: 'VT323', ;
+}
+
+
+nav{
+  margin-bottom: 15px;
+}
+
+.links {
+  color: red;
+
+  a:link,
+  a:visited {
+    color: #808080;
+    line-height: 30px;
+    text-decoration: none;
+    font-family: 'VT323' ;
+  } 
+  a:hover {
+    /*color: #FD864D;*/
+    /*color: #12B0A3;*/
+
+    color: #232730;
+    font-size: 1.1em;
+  }
+  
+}
+
+
+
+p {
+    color: #808080;
+    line-height: 25px;
+    text-decoration: none;
+    text-align: justify;
+    font-family: 'VT323', ;
+}
+
+// HR //////////////////
+
+.orange, .blue {
+  height: 1px; border: 0; 
+}
+
+.orange {
+  background-color: #FD864D; 
+}
+.blue {
+  background-color: #12B0A3;
+}
+
+.contact-span {
+  color: #12B0A3;
+}
+
+///////////////////////
+
+.single-title {
+  line-height: 0em;
+  margin-bottom: 30px
+}
+
+
+// CONTATTI /////////////
+
+.contact-links {
+  font-size: 1.1em;
+}
+///////////////////////
+
